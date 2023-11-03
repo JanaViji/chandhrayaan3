@@ -1,0 +1,22 @@
+body {
+ 
+ 
+    background: linear-gradient(to right, #9999ff 17%, #cc99ff 79%);
+}
+.img1 {
+    float: left;
+    border-radius: 20px;
+    width: 700px;
+    margin-right: 16px;
+     }
+     p{
+        text-align:justify;
+        margin-right: 20px;
+     } 
+     .img2{
+        float: right;
+        border-radius: 20px;
+        width: 400px;
+        margin-left: 16px;
+     }
+     
